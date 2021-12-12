@@ -10,7 +10,7 @@ namespace PPK___Zadanie_2
     {
         static void Main()
         {
-        Start:
+            Start:
             UInt64 silnia = 1;
 
             Console.Clear();
